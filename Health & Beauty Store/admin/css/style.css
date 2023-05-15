@@ -1,0 +1,19 @@
+#main-content {
+    margin: 30px;
+}
+
+#col-hover {
+    color: white;
+}
+
+.table-responsive {
+    overflow: auto;
+}
+
+
+.jobs table {
+    border-collapse: collapse;
+    margin-top: 1rem;
+    overflow-x: auto;
+    
+}
